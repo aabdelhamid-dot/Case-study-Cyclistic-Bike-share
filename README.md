@@ -16,3 +16,21 @@ How do annual members and casual riders use Cyclistic bikes differently?
 
 ## Prepare
 Use Cyclistic’s historical trip data to analyze and identify trends. Download the previous 12 months of Cyclistic trip data here [https://divvy-tripdata.s3.amazonaws.com/index.html]
+
+## Process
+1. Merging all 12 extract into one csv file.
+2. Check data for errors, duplicates and missing values.
+3. Create new columns called ride_length, day_of_week.
+
+## Analyze
+1. Run few calculations to get better sense of data layout.
+2. Find average ride_length for members and casual riders.
+3. Find average ride_length for users by day_of_week.
+4. Calculate number of rides for users by day_of_week.
+
+## Share
+1. Create visualizations, using R or Tableau, to draw your audience's attention to the most important insights.
+
+## Act
+1. Write a brief paragraph describing your findings.
+2. Top three recommendatios based on latest findings. 
