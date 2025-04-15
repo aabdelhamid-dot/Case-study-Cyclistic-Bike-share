@@ -15,7 +15,7 @@ In 2016, Cyclistic launched a successful bike-share offering. Since then, the pr
 How do annual members and casual riders use Cyclistic bikes differently?
 
 ## Prepare
-1. Use Cyclistic’s historical trip data that can be found at [https://divvy-tripdata.s3.amazonaws.com/index.html]
+1. Use Cyclistic’s historical trip data that can be found at https://divvy-tripdata.s3.amazonaws.com/index.html
 2. We download datasets from Jan. to Dec. 2024
 
 
