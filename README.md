@@ -22,13 +22,16 @@ How do annual members and casual riders use Cyclistic bikes differently?
 ## Process
 1. Merging all 12 extract into one csv file.
 2. Check data for errors, duplicates and missing values.
-3. Create new columns called ride_length, day_of_week.
+3. Create new columns called ride_length, day_of_week, Season, time_of_day, docking_type
 
 ## Analyze
 1. Run few calculations to get better sense of data layout.
 2. Find average ride_length for members and casual riders.
 3. Find average ride_length for users by day_of_week.
 4. Calculate number of rides for users by day_of_week.
+5. Calculate number of rides for users by docking_type.
+6. Calculate number of rides for users by Season.
+7. Calculate number of rides for users by time_of_day.
 
 ## Share
 1. Create visualizations, using R or Tableau, to draw your audience's attention to the most important insights.
