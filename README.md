@@ -32,6 +32,7 @@ How do annual members and casual riders use Cyclistic bikes differently?
 5. Calculate number of rides for users by docking_type.
 6. Calculate number of rides for users by Season.
 7. Calculate number of rides for users by time_of_day.
+8. Calculate number of rides for users by month.
 
 ## Share
 1. Create visualizations, using R or Tableau, to draw your audience's attention to the most important insights.
